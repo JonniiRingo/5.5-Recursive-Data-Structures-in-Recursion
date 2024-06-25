@@ -1,0 +1,17 @@
+Lesson 5.5: Recursive Data Structures in Recursion
+
+Concept Overview:
+In this lesson, we will explore how recursion is used to define and work with recursive data structures. 
+Recursive data structures are data structures that can be defined in terms of similar structures of smaller instances of themselves. 
+Understanding and manipulating these structures is a fundamental part of computer science and programming.
+
+
+Key Terminology:
+Recursive data structure
+Base case
+Recursive case
+Linked list
+Tree structure
+References:
+Recursive data structures
+Linked lists and recursion in C++
